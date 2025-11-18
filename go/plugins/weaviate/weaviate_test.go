@@ -22,10 +22,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/internal/fakeembedder"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/internal/fakeembedder"
 	"github.com/stretchr/testify/assert"
 )
 

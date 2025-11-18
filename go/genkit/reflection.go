@@ -30,11 +30,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/core/logger"
-	"github.com/firebase/genkit/go/core/tracing"
-	"github.com/firebase/genkit/go/internal"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/core/tracing"
+	"github.com/nadeem7sg/genkit/go/internal"
 )
 
 type streamingCallback[Stream any] = func(context.Context, Stream) error

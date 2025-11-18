@@ -15,8 +15,8 @@ import (
   "context"
   "log"
 
-  "github.com/firebase/genkit/go/genkit"
-  "github.com/firebase/genkit/go/plugins/mcp"
+  "github.com/nadeem7sg/genkit/go/genkit"
+  "github.com/nadeem7sg/genkit/go/plugins/mcp"
 )
 
 func main() {
@@ -60,8 +60,8 @@ import (
     "context"
     "log"
 
-    "github.com/firebase/genkit/go/genkit"
-    "github.com/firebase/genkit/go/plugins/mcp"
+    "github.com/nadeem7sg/genkit/go/genkit"
+    "github.com/nadeem7sg/genkit/go/plugins/mcp"
 )
 
 func main() {
@@ -130,8 +130,8 @@ import (
   "context"
   "log"
 
-  "github.com/firebase/genkit/go/genkit"
-  "github.com/firebase/genkit/go/plugins/mcp"
+  "github.com/nadeem7sg/genkit/go/genkit"
+  "github.com/nadeem7sg/genkit/go/plugins/mcp"
 )
 
 func main() {

@@ -23,8 +23,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/firebase/genkit/go/internal/registry"
-	test_utils "github.com/firebase/genkit/go/tests/utils"
+	"github.com/nadeem7sg/genkit/go/internal/registry"
+	test_utils "github.com/nadeem7sg/genkit/go/tests/utils"
 	"github.com/google/go-cmp/cmp"
 )
 

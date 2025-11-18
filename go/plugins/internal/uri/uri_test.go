@@ -19,7 +19,7 @@ package uri
 import (
 	"testing"
 
-	"github.com/firebase/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/ai"
 )
 
 func TestData(t *testing.T) {

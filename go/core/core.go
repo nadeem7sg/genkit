@@ -27,7 +27,7 @@
 package core
 
 import (
-	"github.com/firebase/genkit/go/internal/base"
+	"github.com/nadeem7sg/genkit/go/internal/base"
 )
 
 // InferSchemaMap infers a JSON schema from a Go value and converts it to a map.

@@ -25,9 +25,9 @@ import (
 	"sync"
 
 	firebasev4 "firebase.google.com/go/v4"
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/genkit"
 )
 
 // Firebase plugin for Genkit, providing integration with Firebase services.

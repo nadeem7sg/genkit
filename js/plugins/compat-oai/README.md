@@ -1,7 +1,7 @@
 # OpenAI Compatible API plugin for Genkit
 
 **`@genkit-ai/compat-oai`** is a community plugin for using OpenAI APIs with
-[Firebase Genkit](https://github.com/firebase/genkit).
+[Firebase Genkit](https://github.com/nadeem7sg/genkit).
 
 This Genkit plugin allows to use OpenAI models through their official APIs.
 
@@ -193,15 +193,15 @@ export const customModelFlow = ai.defineFlow(
 
 ## Contributing
 
-Want to contribute to the project? That's awesome! Head over to our [Contribution Guidelines](https://github.com/firebase/genkit/blob/main/CONTRIBUTING.md).
+Want to contribute to the project? That's awesome! Head over to our [Contribution Guidelines](https://github.com/nadeem7sg/genkit/blob/main/CONTRIBUTING.md).
 
 ## Need support?
 
-Reach out by opening a discussion on [Github Discussions](https://github.com/firebase/genkit/discussions).
+Reach out by opening a discussion on [Github Discussions](https://github.com/nadeem7sg/genkit/discussions).
 
 
 ## License
 
-This project is licensed under the [Apache 2.0 License](https://github.com/firebase/genkit/blob/main/LICENSE).
+This project is licensed under the [Apache 2.0 License](https://github.com/nadeem7sg/genkit/blob/main/LICENSE).
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202%2E0-lightgrey.svg)](https://github.com/firebase/genkit/blob/main/LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202%2E0-lightgrey.svg)](https://github.com/nadeem7sg/genkit/blob/main/LICENSE)

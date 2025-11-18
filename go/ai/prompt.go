@@ -25,10 +25,10 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/core/logger"
-	"github.com/firebase/genkit/go/internal/base"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/internal/base"
 	"github.com/google/dotprompt/go/dotprompt"
 	"github.com/invopop/jsonschema"
 )

@@ -36,10 +36,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/googlegenai"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/googlegenai"
 	_ "github.com/lib/pq"
 	pgv "github.com/pgvector/pgvector-go"
 )

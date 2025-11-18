@@ -26,7 +26,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/firebase/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core"
 )
 
 func FakeContextProvider(ctx context.Context, req core.RequestData) (core.ActionContext, error) {

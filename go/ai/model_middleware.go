@@ -27,8 +27,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/logger"
 )
 
 // AugmentWithContextOptions configures how a request is augmented with context.

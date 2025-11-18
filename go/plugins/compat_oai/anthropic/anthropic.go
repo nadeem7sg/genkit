@@ -18,10 +18,10 @@ import (
 	"context"
 	"os"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/compat_oai"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/compat_oai"
 	"github.com/openai/openai-go/option"
 )
 

@@ -28,9 +28,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/core/tracing"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/tracing"
 )
 
 func inc(_ context.Context, x int) (int, error) {

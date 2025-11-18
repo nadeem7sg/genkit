@@ -20,9 +20,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/compat_oai/anthropic"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/compat_oai/anthropic"
 	"github.com/openai/openai-go/option"
 )
 

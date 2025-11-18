@@ -20,7 +20,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/firebase/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/ai"
 )
 
 func TestGetContentForCache_NoCacheMetadata(t *testing.T) {

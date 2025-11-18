@@ -15,10 +15,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/genkit"
-	oai "github.com/firebase/genkit/go/plugins/compat_oai/openai"
-	"github.com/firebase/genkit/go/plugins/server"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	oai "github.com/nadeem7sg/genkit/go/plugins/compat_oai/openai"
+	"github.com/nadeem7sg/genkit/go/plugins/server"
 	"github.com/openai/openai-go"
 )
 

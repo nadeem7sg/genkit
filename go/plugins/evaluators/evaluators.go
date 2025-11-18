@@ -13,9 +13,9 @@ import (
 	"sync"
 
 	jsonata "github.com/blues/jsonata-go"
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/logger"
 )
 
 const provider = "genkitEval"

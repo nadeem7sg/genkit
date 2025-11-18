@@ -25,17 +25,17 @@ import (
 	"os"
 	"strings"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core/logger"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/googlegenai"
-	"github.com/firebase/genkit/go/plugins/mcp"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/googlegenai"
+	"github.com/nadeem7sg/genkit/go/plugins/mcp"
 )
 
 func main() {
 	var repo string
 	var pr int
-	flag.StringVar(&repo, "repo", "firebase/genkit", "GitHub repo in the form owner/name")
+	flag.StringVar(&repo, "repo", "nadeem7sg/genkit", "GitHub repo in the form owner/name")
 	flag.IntVar(&pr, "pr", 0, "Pull request number")
 	flag.Parse()
 

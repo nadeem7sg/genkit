@@ -21,11 +21,11 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core/logger"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/googlegenai"
-	"github.com/firebase/genkit/go/plugins/mcp"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/googlegenai"
+	"github.com/nadeem7sg/genkit/go/plugins/mcp"
 )
 
 // MCP self-hosting example: Genkit serves itself through MCP

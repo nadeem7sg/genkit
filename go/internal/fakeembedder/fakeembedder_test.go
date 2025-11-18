@@ -21,8 +21,8 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/internal/registry"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/internal/registry"
 )
 
 func TestFakeEmbedder(t *testing.T) {

@@ -22,7 +22,7 @@ import (
 	"maps"
 	"sync"
 
-	"github.com/firebase/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/api"
 	"github.com/google/dotprompt/go/dotprompt"
 )
 

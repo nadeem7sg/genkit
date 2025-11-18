@@ -23,9 +23,9 @@ import (
 	"fmt"
 	"maps"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/internal/base"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/internal/base"
 )
 
 var resumedCtxKey = base.NewContextKey[map[string]any]()

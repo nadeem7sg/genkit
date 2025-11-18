@@ -22,8 +22,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/genkit"
 	"github.com/stretchr/testify/assert"
 )
 

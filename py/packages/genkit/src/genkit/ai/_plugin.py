@@ -44,7 +44,7 @@ class Plugin(abc.ABC):
         """
         return self.name
 
-    # TODO: https://github.com/firebase/genkit/issues/2438
+    # TODO: https://github.com/nadeem7sg/genkit/issues/2438
     # @abc.abstractmethod
     def resolve_action(  # noqa: B027
         self,

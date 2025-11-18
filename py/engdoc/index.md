@@ -558,7 +558,7 @@ building AI applications easier. These tools help you:
 * **Join the community:** Stay updated, ask questions,
   and share your work on our [Discord server](https://discord.gg/qXt5zzQKpc).
 * **Provide feedback:** Report issues or suggest new features
-  using our GitHub [issue tracker](https://github.com/firebase/genkit/issues).
+  using our GitHub [issue tracker](https://github.com/nadeem7sg/genkit/issues).
 
 ## Next steps
 

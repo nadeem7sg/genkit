@@ -21,7 +21,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/firebase/genkit/go/internal/registry"
+	"github.com/nadeem7sg/genkit/go/internal/registry"
 )
 
 func TestRunInFlow(t *testing.T) {

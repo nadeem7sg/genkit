@@ -4,10 +4,10 @@ go 1.24.1
 
 toolchain go1.24.6
 
-replace github.com/firebase/genkit/go => ../../../
+replace github.com/nadeem7sg/genkit/go => ../../../
 
 require (
-	github.com/firebase/genkit/go v0.0.0-00010101000000-000000000000
+	github.com/nadeem7sg/genkit/go v0.0.0-00010101000000-000000000000
 	google.golang.org/genai v1.30.0
 )
 

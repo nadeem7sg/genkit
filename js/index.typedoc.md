@@ -70,7 +70,7 @@ Key features:
 Extend Genkit with plugins for specific AI models, vector databases, and platform integrations from providers like Google and OpenAI.
 
 - **Node.js plugins:** [Explore on npm](https://www.npmjs.com/search?q=keywords:genkit-plugin)
-- **Go plugins:** [Explore on pkg.go.dev](https://pkg.go.dev/github.com/firebase/genkit/go#section-directories)
+- **Go plugins:** [Explore on pkg.go.dev](https://pkg.go.dev/github.com/nadeem7sg/genkit/go#section-directories)
 
 Create and share your own plugins:
 
@@ -94,17 +94,17 @@ Want to skip the local setup? Click below to try out Genkit using [Project IDX](
 
 Take a look at some samples of Genkit in use:
 
-- ["AI barista"](https://github.com/firebase/genkit/tree/main/samples/js-coffee-shop/) -- demonstrates simple LLM usage
-- [A simple chatbot with a JavaScript frontend](https://github.com/firebase/genkit/tree/main/samples/chatbot/) -- add history to LLM sessions
-- [Restaurant menu Q&A app](https://github.com/firebase/genkit/tree/main/samples/js-menu/) -- this sample shows progressively
+- ["AI barista"](https://github.com/nadeem7sg/genkit/tree/main/samples/js-coffee-shop/) -- demonstrates simple LLM usage
+- [A simple chatbot with a JavaScript frontend](https://github.com/nadeem7sg/genkit/tree/main/samples/chatbot/) -- add history to LLM sessions
+- [Restaurant menu Q&A app](https://github.com/nadeem7sg/genkit/tree/main/samples/js-menu/) -- this sample shows progressively
   more sophisticated versions of a menu understanding app.
-- [Streaming to an Angular frontend](https://github.com/firebase/genkit/tree/main/samples/js-angular/)
+- [Streaming to an Angular frontend](https://github.com/nadeem7sg/genkit/tree/main/samples/js-angular/)
 
 ## Connect with us
 
 - **Join the community:** Stay updated, ask questions, and share your work with other Genkit users on our [Discord server](https://discord.gg/qXt5zzQKpc).
 
-- **Provide feedback:** Report issues or suggest new features using our GitHub [issue tracker](https://github.com/firebase/genkit/issues).
+- **Provide feedback:** Report issues or suggest new features using our GitHub [issue tracker](https://github.com/nadeem7sg/genkit/issues).
 
 ## Contributing
 
@@ -112,4 +112,4 @@ Contributions to Genkit are welcome and highly appreciated! See our [Contributio
 
 ## Authors
 
-Genkit is built by [Firebase](https://firebase.google.com/products/genkit) with contributions from the [Open Source Community](https://github.com/firebase/genkit/graphs/contributors).
+Genkit is built by [Firebase](https://firebase.google.com/products/genkit) with contributions from the [Open Source Community](https://github.com/nadeem7sg/genkit/graphs/contributors).

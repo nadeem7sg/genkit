@@ -16,7 +16,7 @@
 # SPDX-License-Identifier: Apache-2.0
 
 
-# git clone git@github.com:firebase/genkit.git
+# git clone git@github.com:nadeem7sg/genkit.git
 # cd genkit
 # pnpm i
 # pnpm build

@@ -81,7 +81,7 @@ membership.
 ### CLA
 
 * Ensure you have [signed the
-CLA](https://github.com/firebase/genkit/blob/main/CONTRIBUTING.md#sign-our-contributor-license-agreement).
+CLA](https://github.com/nadeem7sg/genkit/blob/main/CONTRIBUTING.md#sign-our-contributor-license-agreement).
 
 * For corporate CLAs, please ask the appropriate channels for help.
 
@@ -140,7 +140,7 @@ disambiguation of forks:
 mkdir -p $HOME/code/github.com/firebase/
 cd $HOME/code/github.com/firebase
 
-gh repo clone https://github.com/firebase/genkit.git
+gh repo clone https://github.com/nadeem7sg/genkit.git
 ```
 
 This should allow you to produce a directory structure similar to the following:
@@ -173,7 +173,7 @@ git config user.Name "Your Legal Name."
 
 ### Engineering workstations
 
-Run the following command from the `code/github.com/firebase/genkit` repository
+Run the following command from the `code/github.com/nadeem7sg/genkit` repository
 working tree and it should install the required tools for you.
 
 ```bash

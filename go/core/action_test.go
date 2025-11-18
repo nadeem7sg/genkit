@@ -22,9 +22,9 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/core/tracing"
-	"github.com/firebase/genkit/go/internal/registry"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/tracing"
+	"github.com/nadeem7sg/genkit/go/internal/registry"
 )
 
 func inc(_ context.Context, x int, _ noStream) (int, error) {

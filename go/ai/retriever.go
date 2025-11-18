@@ -21,8 +21,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
 )
 
 // RetrieverFunc is the function type for retriever implementations.

@@ -22,9 +22,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/core/tracing"
-	"github.com/firebase/genkit/go/internal/base"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/tracing"
+	"github.com/nadeem7sg/genkit/go/internal/base"
 )
 
 // A Flow is a user-defined Action. A Flow[In, Out, Stream] represents a function from In to Out. The Stream parameter is for flows that support streaming: providing their results incrementally.

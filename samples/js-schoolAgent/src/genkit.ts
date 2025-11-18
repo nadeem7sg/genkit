@@ -14,13 +14,17 @@
  * limitations under the License.
  */
 
-import { gemini15Pro, googleAI } from '@genkit-ai/googleai';
+import { googleAI } from '@genkit-ai/googleai';
 import { genkit } from 'genkit/beta';
 import type { AgentState } from './types';
 
+// Get model from environment variable GMODEL, fallback to gemini-2.5-flash
+const modelName = process.env.GMODEL || 'gemini-2.5-flash';
+
 export const ai = genkit({
   plugins: [googleAI()],
-  model: gemini15Pro,
+  // Use model from GMODEL environment variable
+  model: (googleAI as any).model(modelName),
 });
 
 ai.defineHelper(

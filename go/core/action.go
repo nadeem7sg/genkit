@@ -23,11 +23,11 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/core/logger"
-	"github.com/firebase/genkit/go/core/tracing"
-	"github.com/firebase/genkit/go/internal/base"
-	"github.com/firebase/genkit/go/internal/metrics"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/core/tracing"
+	"github.com/nadeem7sg/genkit/go/internal/base"
+	"github.com/nadeem7sg/genkit/go/internal/metrics"
 )
 
 // Func is an alias for non-streaming functions with input of type In and output of type Out.

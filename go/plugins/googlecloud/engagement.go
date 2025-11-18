@@ -22,7 +22,7 @@ import (
 	"log/slog"
 	"regexp"
 
-	"github.com/firebase/genkit/go/internal"
+	"github.com/nadeem7sg/genkit/go/internal"
 	"go.opentelemetry.io/otel/attribute"
 	sdktrace "go.opentelemetry.io/otel/sdk/trace"
 	"go.opentelemetry.io/otel/trace"

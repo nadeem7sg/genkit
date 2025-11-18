@@ -42,13 +42,13 @@ import (
 	"log"
 	"strings"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/evaluators"
-	"github.com/firebase/genkit/go/plugins/googlegenai"
-	"github.com/firebase/genkit/go/plugins/localvec"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/evaluators"
+	"github.com/nadeem7sg/genkit/go/plugins/googlegenai"
+	"github.com/nadeem7sg/genkit/go/plugins/localvec"
 )
 
 const simpleQaPromptTemplate = `

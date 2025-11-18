@@ -17,7 +17,7 @@ package vectorsearch
 import (
 	"context"
 
-	"github.com/firebase/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/ai"
 	"golang.org/x/oauth2/google"
 )
 

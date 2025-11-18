@@ -20,7 +20,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/firebase/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core"
 )
 
 func TestStreamFlow(t *testing.T) {

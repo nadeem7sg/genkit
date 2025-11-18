@@ -20,11 +20,11 @@ package main
 import (
 	"context"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core/logger"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/googlegenai"
-	"github.com/firebase/genkit/go/plugins/mcp"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/googlegenai"
+	"github.com/nadeem7sg/genkit/go/plugins/mcp"
 )
 
 func client() {

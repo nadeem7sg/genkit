@@ -19,7 +19,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/firebase/genkit/go/internal/registry"
+	"github.com/nadeem7sg/genkit/go/internal/registry"
 )
 
 func TestStaticResource(t *testing.T) {

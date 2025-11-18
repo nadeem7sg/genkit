@@ -22,10 +22,10 @@ import (
 
 	"cloud.google.com/go/firestore"
 	firebasev4 "firebase.google.com/go/v4"
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/firebase"
-	"github.com/firebase/genkit/go/plugins/googlegenai"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/firebase"
+	"github.com/nadeem7sg/genkit/go/plugins/googlegenai"
 )
 
 func main() {

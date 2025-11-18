@@ -28,9 +28,9 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/logger"
 )
 
 type HandlerOption interface {

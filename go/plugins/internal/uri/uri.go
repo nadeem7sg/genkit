@@ -23,7 +23,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/firebase/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/ai"
 )
 
 // Data returns the content type and bytes of the media part.

@@ -20,7 +20,7 @@ import (
 	"log"
 
 	"cloud.google.com/go/firestore"
-	"github.com/firebase/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/ai"
 	"github.com/googleapis/gax-go/v2/apierror"
 )
 

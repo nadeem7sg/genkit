@@ -23,8 +23,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
 	"github.com/yosida95/uritemplate/v3"
 )
 

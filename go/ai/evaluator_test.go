@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/firebase/genkit/go/internal/registry"
+	"github.com/nadeem7sg/genkit/go/internal/registry"
 )
 
 var testEvalFunc = func(ctx context.Context, req *EvaluatorCallbackRequest) (*EvaluatorCallbackResponse, error) {

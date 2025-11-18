@@ -2,9 +2,9 @@ module mcp-git-changelog
 
 go 1.25.0
 
-replace github.com/firebase/genkit/go => ../../
+replace github.com/nadeem7sg/genkit/go => ../../
 
-require github.com/firebase/genkit/go v0.0.0-00010101000000-000000000000
+require github.com/nadeem7sg/genkit/go v0.0.0-00010101000000-000000000000
 
 require (
 	cloud.google.com/go v0.120.0 // indirect

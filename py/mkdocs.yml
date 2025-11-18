@@ -94,7 +94,7 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/firebase/genkit
+      link: https://github.com/nadeem7sg/genkit
     - icon: fontawesome/brands/discord
       link: https://discord.gg/qXt5zzQKpc
   analytics:

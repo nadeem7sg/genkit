@@ -1,0 +1,31 @@
+services:
+  school-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: school-agent
+    ports:
+      - "8080:8080"  # Production Web UI
+      - "4000:4000"  # GenKit Developer UI (if using genkit start)
+      - "4033:4033"  # Telemetry API (if using genkit start)
+    env_file:
+      - ../../../files/.env  # Load API key from files/.env
+    environment:
+      # API key is loaded from env_file above
+      # GEMINI_API_KEY is set as fallback from env_file
+      - GMODEL=${GMODEL:-gemini-2.5-flash}  # Model from env, default to gemini-2.5-flash
+      - NODE_ENV=${NODE_ENV:-production}
+      - PORT=8080
+    volumes:
+      # Mount source for hot reloading in development
+      - ./src:/app/src
+      - ./tsconfig.json:/app/tsconfig.json
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "node", "-e", "require('http').get('http://localhost:8080/health', (r) => { process.exit(r.statusCode === 200 ? 0 : 1) }).on('error', () => process.exit(1))"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 60s
+    command: npm run start:server
+

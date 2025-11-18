@@ -20,8 +20,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
 )
 
 // EmbedderFunc is the function type for embedding documents.

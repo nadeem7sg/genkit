@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/firebase/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/core/logger"
 	"github.com/mark3labs/mcp-go/client"
 	"github.com/mark3labs/mcp-go/client/transport"
 	"github.com/mark3labs/mcp-go/mcp"

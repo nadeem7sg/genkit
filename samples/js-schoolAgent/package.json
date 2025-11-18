@@ -5,8 +5,11 @@
   "main": "lib/index.js",
   "scripts": {
     "start": "node lib/terminal.js",
+    "start:server": "node lib/server.js",
     "dev": "tsx --no-warnings --watch src/terminal.ts",
+    "dev:server": "tsx --no-warnings --watch src/server.ts",
     "genkit:dev": "genkit start -- npm run dev",
+    "genkit:server": "genkit start -- npm run dev:server",
     "compile": "tsc",
     "build": "npm run build:clean && npm run compile",
     "build:clean": "rimraf ./lib",
@@ -16,14 +19,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "genkit": "^1.0.4",
-    "@genkit-ai/googleai": "^1.0.4",
+    "genkit": "^1.22.0",
+    "@genkit-ai/googleai": "^1.22.0",
+    "express": "^4.21.2",
     "google-auth-library": "^9.6.3",
     "llm-chunk": "^0.0.1",
     "pdf-parse": "^1.1.1"
   },
   "devDependencies": {
     "genkit-cli": "^1.0.4",
+    "@types/express": "^5.0.5",
     "@types/pdf-parse": "^1.1.4",
     "cross-env": "^7.0.3",
     "rimraf": "^6.0.1",

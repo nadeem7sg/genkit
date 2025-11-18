@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/firebase/genkit/go/internal"
+	"github.com/nadeem7sg/genkit/go/internal"
 	"go.opentelemetry.io/otel/codes"
 	sdktrace "go.opentelemetry.io/otel/sdk/trace"
 	"go.opentelemetry.io/otel/trace"

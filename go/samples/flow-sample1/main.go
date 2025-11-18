@@ -42,9 +42,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/server"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/server"
 )
 
 func main() {

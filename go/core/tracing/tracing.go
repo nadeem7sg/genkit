@@ -25,8 +25,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/firebase/genkit/go/core/logger"
-	"github.com/firebase/genkit/go/internal/base"
+	"github.com/nadeem7sg/genkit/go/core/logger"
+	"github.com/nadeem7sg/genkit/go/internal/base"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/codes"
@@ -79,7 +79,7 @@ func captureStackTrace() string {
 
 	for _, line := range lines {
 
-		if strings.Contains(line, "github.com/firebase/genkit/go/core/tracing") ||
+		if strings.Contains(line, "github.com/nadeem7sg/genkit/go/core/tracing") ||
 			strings.Contains(line, "runtime.") ||
 			strings.Contains(line, "captureStackTrace") {
 			skipNext = true

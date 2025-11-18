@@ -1,6 +1,6 @@
 ![Genkit logo](docs/resources/genkit-logo-dark.png#gh-dark-mode-only 'Genkit')
 ![Genkit logo](docs/resources/genkit-logo.png#gh-light-mode-only 'Genkit')
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/firebase/genkit)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/nadeem7sg/genkit)
 
 [Genkit](https://genkit.dev) is an open-source framework for building full-stack AI-powered applications, built and used in production by Google's Firebase. It provides SDKs for multiple programming languages with varying levels of stability:
 
@@ -156,7 +156,7 @@ Want to skip the local setup? Click below to try out Genkit using [Firebase Stud
 
 - [**Join us on Discord**](https://discord.gg/qXt5zzQKpc) – Get help, share
 ideas, and chat with other developers.
-- [**Contribute on GitHub**](https://github.com/firebase/genkit/issues) – Report
+- [**Contribute on GitHub**](https://github.com/nadeem7sg/genkit/issues) – Report
 bugs, suggest features, or explore the source code.
 - [**Contribute to Documentation and Samples**](https://github.com/genkit-ai/) – Report
 issues in Genkit's [documentation](https://github.com/genkit-ai/docsite), or contribute to the [samples](https://github.com/genkit-ai/samples).
@@ -167,4 +167,4 @@ Contributions to Genkit are welcome and highly appreciated! See our [Contributio
 
 ## Authors
 
-Genkit is built by [Firebase](https://firebase.google.com/) with contributions from the [Open Source Community](https://github.com/firebase/genkit/graphs/contributors).
+Genkit is built by [Firebase](https://firebase.google.com/) with contributions from the [Open Source Community](https://github.com/nadeem7sg/genkit/graphs/contributors).

@@ -21,9 +21,9 @@ import (
 	"flag"
 	"testing"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/genkit"
-	ollamaPlugin "github.com/firebase/genkit/go/plugins/ollama"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	ollamaPlugin "github.com/nadeem7sg/genkit/go/plugins/ollama"
 )
 
 var serverAddress = flag.String("server-address", "http://localhost:11434", "Ollama server address")

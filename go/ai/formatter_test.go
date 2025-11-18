@@ -18,7 +18,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/firebase/genkit/go/internal/base"
+	"github.com/nadeem7sg/genkit/go/internal/base"
 	"github.com/google/go-cmp/cmp"
 )
 

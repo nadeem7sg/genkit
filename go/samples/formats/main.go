@@ -20,10 +20,10 @@ import (
 	"math"
 	"net/http"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/googlegenai"
-	"github.com/firebase/genkit/go/plugins/server"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/googlegenai"
+	"github.com/nadeem7sg/genkit/go/plugins/server"
 )
 
 type StoryCharacter struct {

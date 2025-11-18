@@ -20,7 +20,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/firebase/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/ai"
 	"google.golang.org/genai"
 )
 

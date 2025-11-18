@@ -27,10 +27,10 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/internal/registry"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/internal/registry"
 )
 
 // Genkit encapsulates a Genkit instance, providing access to its registry,
@@ -127,9 +127,9 @@ func WithPromptDir(dir string) GenkitOption {
 //		"context"
 //		"log"
 //
-//		"github.com/firebase/genkit/go/ai"
-//		"github.com/firebase/genkit/go/genkit"
-//		"github.com/firebase/genkit/go/plugins/googlegenai" // Example plugin
+//		"github.com/nadeem7sg/genkit/go/ai"
+//		"github.com/nadeem7sg/genkit/go/genkit"
+//		"github.com/nadeem7sg/genkit/go/plugins/googlegenai" // Example plugin
 //	)
 //
 //	func main() {

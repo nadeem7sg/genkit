@@ -21,8 +21,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core/api"
 	"github.com/stretchr/testify/assert"
 )
 

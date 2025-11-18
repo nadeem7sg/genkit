@@ -19,8 +19,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/genkit"
 	"github.com/mark3labs/mcp-go/mcp"
 )
 

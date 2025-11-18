@@ -29,12 +29,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/core/api"
-	"github.com/firebase/genkit/go/internal"
-	"github.com/firebase/genkit/go/internal/base"
-	"github.com/firebase/genkit/go/plugins/internal/uri"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/internal"
+	"github.com/nadeem7sg/genkit/go/internal/base"
+	"github.com/nadeem7sg/genkit/go/plugins/internal/uri"
 	"github.com/invopop/jsonschema"
 	"google.golang.org/genai"
 )

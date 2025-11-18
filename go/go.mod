@@ -1,4 +1,4 @@
-module github.com/firebase/genkit/go
+module github.com/nadeem7sg/genkit/go
 
 go 1.24.1
 

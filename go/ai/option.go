@@ -22,8 +22,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/internal/base"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/internal/base"
 )
 
 // PromptFn is a function that generates a prompt.

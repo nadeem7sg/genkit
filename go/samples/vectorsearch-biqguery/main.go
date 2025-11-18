@@ -21,10 +21,10 @@ import (
 	"log"
 
 	"cloud.google.com/go/bigquery"
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/genkit"
-	"github.com/firebase/genkit/go/plugins/googlegenai"
-	"github.com/firebase/genkit/go/plugins/vertexai/vectorsearch"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/plugins/googlegenai"
+	"github.com/nadeem7sg/genkit/go/plugins/vertexai/vectorsearch"
 )
 
 // menuItem is the data model for an item on the menu.

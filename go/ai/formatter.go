@@ -17,7 +17,7 @@ package ai
 import (
 	"fmt"
 
-	"github.com/firebase/genkit/go/core/api"
+	"github.com/nadeem7sg/genkit/go/core/api"
 )
 
 const (

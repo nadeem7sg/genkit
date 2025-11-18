@@ -23,7 +23,7 @@ import (
 	"time"
 
 	"cloud.google.com/go/bigquery"
-	"github.com/firebase/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/ai"
 	"google.golang.org/api/iterator"
 )
 

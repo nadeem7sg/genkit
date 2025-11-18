@@ -15,7 +15,7 @@
 // Package internal contains code that is common to all models
 package internal
 
-import "github.com/firebase/genkit/go/ai"
+import "github.com/nadeem7sg/genkit/go/ai"
 
 var (
 	// BasicText describes model capabilities for text-only models.

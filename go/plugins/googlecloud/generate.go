@@ -26,8 +26,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/internal"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/internal"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/codes"

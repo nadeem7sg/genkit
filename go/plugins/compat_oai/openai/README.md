@@ -14,7 +14,7 @@ Here's a simple example of how to use the OpenAI plugin:
 ```go
 import (
   // ignoring Genkit imports
-  oai "github.com/firebase/genkit/go/plugins/compat_oai/openai"
+  oai "github.com/nadeem7sg/genkit/go/plugins/compat_oai/openai"
   "github.com/openai/openai-go"
 )
 // Initialize the OpenAI plugin with your API key

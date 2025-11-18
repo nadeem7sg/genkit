@@ -17,8 +17,8 @@
 package modelgarden
 
 import (
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/plugins/internal"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/plugins/internal"
 )
 
 const provider = "vertexai"

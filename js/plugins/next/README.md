@@ -62,7 +62,7 @@ for await (const chunk of stream) {
 console.log(await output); // output is a promise, must be awaited
 ```
 
-The sources for this package are in the main [Genkit](https://github.com/firebase/genkit) repo. Please file issues and pull requests against that repo.
+The sources for this package are in the main [Genkit](https://github.com/nadeem7sg/genkit) repo. Please file issues and pull requests against that repo.
 
 Usage information and reference details can be found in [official Genkit documentation](https://genkit.dev/docs/get-started/).
 

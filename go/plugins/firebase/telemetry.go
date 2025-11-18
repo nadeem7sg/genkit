@@ -20,7 +20,7 @@ import (
 	"log/slog"
 	"os"
 
-	"github.com/firebase/genkit/go/plugins/googlecloud"
+	"github.com/nadeem7sg/genkit/go/plugins/googlecloud"
 	sdktrace "go.opentelemetry.io/otel/sdk/trace"
 	"golang.org/x/oauth2/google"
 )

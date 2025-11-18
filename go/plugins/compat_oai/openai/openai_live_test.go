@@ -24,10 +24,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/firebase/genkit/go/ai"
-	"github.com/firebase/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/ai"
+	"github.com/nadeem7sg/genkit/go/genkit"
 
-	compat_oai "github.com/firebase/genkit/go/plugins/compat_oai/openai"
+	compat_oai "github.com/nadeem7sg/genkit/go/plugins/compat_oai/openai"
 	"github.com/openai/openai-go"
 )
 

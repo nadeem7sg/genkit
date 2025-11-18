@@ -23,8 +23,8 @@ import (
 	"strings"
 
 	"firebase.google.com/go/v4/auth"
-	"github.com/firebase/genkit/go/core"
-	"github.com/firebase/genkit/go/genkit"
+	"github.com/nadeem7sg/genkit/go/core"
+	"github.com/nadeem7sg/genkit/go/genkit"
 )
 
 // AuthContext is the context of an authenticated request.
